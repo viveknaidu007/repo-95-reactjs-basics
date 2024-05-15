@@ -111,6 +111,9 @@ console.log('Hello console')**
 ## we can use below website for html to JAX 
 - https://transform.tools/html-to-jsx
 
+
+
+## basics commands:
 '''
   npm start
     Starts the development server.
@@ -133,3 +136,6 @@ We suggest that you begin by typing:
 Happy hacking!
 
 '''
+
+## for documentation:
+* https://react.dev/learn
